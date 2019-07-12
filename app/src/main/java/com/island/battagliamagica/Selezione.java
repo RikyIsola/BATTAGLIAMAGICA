@@ -4,5 +4,5 @@ public abstract class Selezione
 	public Selezione()
 	{
 	}
-	public abstract boolean selezionato(PortaMostro mostro)
+	public abstract boolean selezionato(PortaMostro mostro);
 }

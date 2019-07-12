@@ -3,8 +3,8 @@ import com.island.battagliamagica.carte.*;
 import com.island.battagliamagica.*;
 public abstract class Mostro extends Carta
 {
-	public abstract int attacco()
-	public abstract int difesa()
+	public abstract int attacco();
+	public abstract int difesa();
 	public void inizioAttacco(PortaMostro questo,PortaMostro bersaglio){}
 	public void fineAttacco(PortaMostro questo,PortaMostro bersaglio){}
 	public void usa(PortaMostro questo){}
