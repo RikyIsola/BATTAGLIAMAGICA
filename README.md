@@ -1,3 +1,3 @@
-# BATTAGLIAMAGICA
+# Magic-Battle
 
 Card game
